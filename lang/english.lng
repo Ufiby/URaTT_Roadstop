@@ -1,0 +1,60 @@
+##grflangid 0x01 
+
+STR_GRF_NAME					:U&RaTT: RoadStops 0.1
+STR_GRF_DESCRIPTION				:Added custom stops for buses and trucks: {YELLOW}U&RaTT:RoadStops{}{}{GOLD}WARNING!!!{}{BLACK}The basic road graphics is not supported, you need to connect (NewGRF) {SILVER}NRT{}{}{BLACK}Requires version {SILVER}14.0 {BLACK}or later{}{}{BLACK}©2020 Yuri Gashin{}Draw or coded by {LTBLUE}Ufiby{}{BLACK}License: {SILVER}GPL v3{}
+STR_GRF_URL				    	:https://www.tt-forums.net/viewtopic.php?t=84591
+
+STR_OPENTTD_VERSION				:14.0
+
+STR_NAME_UAAA                  :U&:Mixed stations                      
+STR_NAME_UBSA                  :U&:Town stations bus
+STR_NAME_UBNA                  :U&:Station bus
+STR_NAME_ULSA                  :U&:Town stations lorry
+STR_NAME_ULGA                  :U&:Stations lorry
+STR_NAME_ULTA                  :U&:Lorry terminal
+
+STR_NAME_EMPTY                 :Empty
+STR_NAME_CRATES_CARGO          :Crates cargo
+STR_NAME_CONTAINERS_CARGO      :Containers cargo
+STR_NAME_AGRICULTURAL          :Agricultural
+STR_NAME_FRUIT                 :Fruit
+STR_NAME_LIVESTOCK             :Livestock
+STR_NAME_WOOD                  :Wood
+STR_NAME_MINERAL               :Mineral
+STR_NAME_BARREL                :Barrel
+STR_NAME_METAL_PRODUCTS        :Metal products
+STR_NAME_WDPR                  :Wood products
+STR_NAME_PAPER_PRODUCTS        :Paper products
+
+STR_NAME_UAAA_00               :Roadstop & sidewalk
+STR_NAME_UAAA_01               :Roadstop & empty
+
+STR_NAME_UBSA_00               :Street lamp
+STR_NAME_UBSA_01               :Lighting
+STR_NAME_UBSA_02               :Bus stops
+STR_NAME_UBSA_03               :Stop with a roof
+
+STR_NAME_UBNA_00               :Bus sign
+STR_NAME_UBNA_02               :Street lamp
+STR_NAME_UBNA_01               :Old lighting
+STR_NAME_UBNA_03               :Lighting
+
+STR_NAME_ULSA_00               :Street lamp
+STR_NAME_ULSA_01               :Lighting
+STR_NAME_ULSA_02               :Stop lorry
+STR_NAME_ULSA_03               :Stop lorry with a roof
+
+STR_NAME_ULGA_00               :Lorry sign
+STR_NAME_ULGA_01               :Fences (low)
+STR_NAME_ULGA_10               :Fences and old lamp
+STR_NAME_ULGA_11               :Bulldozer and loader
+STR_NAME_ULGA_12               :Fences (high)
+STR_NAME_ULGA_13               :Fences and light
+STR_NAME_ULGA_14               :Loading / unloading of liquid
+STR_NAME_ULGA_17               :Street lamp
+STR_NAME_ULGA_18               :Lighting
+
+STR_NAME_ULTA_01               :Warehouse
+STR_NAME_ULTA_03               :Warehouse
+STR_NAME_ULTA_05               :Warehouse
+STR_NAME_ULTA_07               :Warehouse
